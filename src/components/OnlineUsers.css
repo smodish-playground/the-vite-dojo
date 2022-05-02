@@ -10,6 +10,7 @@
 .user-list h2 {
   text-align: right;
   margin-bottom: 40px;
+  margin-right: 20px;
   padding-bottom: 10px;
   border-bottom: 1px solid #eee;
   font-size: 1.2em;
@@ -23,6 +24,7 @@
 }
 
 .user-list .avatar {
+  margin-right: 20px;
   margin-left: 10px;
   width: 40px;
   height: 40px;
