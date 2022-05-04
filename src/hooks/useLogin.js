@@ -25,7 +25,7 @@ const useLogin = () => {
       }
     } catch (error) {
       if (!isCancelled) {
-        console.log('Error: ' + error.message)
+        // console.log('Error: ' + error.message)
         setError(error.message)
         setIsPending(false)
       }

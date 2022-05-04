@@ -36,7 +36,7 @@ function SignUp() {
       return
     }
 
-    console.log(selected)
+    // console.log(selected)
     setThumbnailError(null)
     setThumbnail(selected)
   }
